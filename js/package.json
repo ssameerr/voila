@@ -10,7 +10,7 @@
     "@jupyter-widgets/html-manager": "^0.15.2",
     "@jupyter-widgets/jupyterlab-manager": "^0.39.1",
     "@jupyter-widgets/output": "^1.1.2",
-    "@jupyterlab/coreutils": "^2.2.1",
+    "@jupyterlab/coreutils": "^3.0.0",
     "@jupyterlab/outputarea": "^0.19.1",
     "@jupyterlab/rendermime": "^0.19.1",
     "@jupyterlab/services": "^3.2.1",
